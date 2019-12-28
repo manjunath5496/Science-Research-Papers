@@ -56,24 +56,24 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(30).pdf" style="text-decoration:none;">Reverse Compilation Techniques</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(31).pdf" style="text-decoration:none;">Design Beyond Human Abilities</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(11).pdf" style="text-decoration:none;">Deep Voice: Real-time Neural Text-to-Speech</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(12).pdf" style="text-decoration:none;">Adversarial Patch</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(13).pdf" style="text-decoration:none;">Machine Learning: The High-Interest Credit Card of Technical Debt</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(32).pdf" style="text-decoration:none;">Deterministic Nonperiodic Flow</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(33).pdf" style="text-decoration:none;">The Derivative of a Regular Type is its Type of One-Hole Contexts</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(34).pdf" style="text-decoration:none;">On the Electrodynamics of Moving Bodies</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(14).pdf" style="text-decoration:none;"> On proof and progress in mathematics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(35).pdf" style="text-decoration:none;"> A Mathematical Theory of Communication</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(15).pdf" style="text-decoration:none;">On the dimensionality of spacetime</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(16).pdf" style="text-decoration:none;">Overcoming catastrophic forgetting in neural networks</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(17).pdf" style="text-decoration:none;">A Notion of a Computational Step for Partial Combinatory Algebras</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(18).pdf" style="text-decoration:none;">Bertlmann's Socks and the Nature of Reality</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(36).pdf" style="text-decoration:none;">Sketch of a Programme</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(37).pdf" style="text-decoration:none;">Infinite sets that admit fast exhaustive search</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(38).pdf" style="text-decoration:none;">Using closures for code generation</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(39).pdf" style="text-decoration:none;">Quotients Homophones des Groupes Libres Homophonic Quotients of Free Groups</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(19).pdf" style="text-decoration:none;">Cache Efficient Functional Algorithms</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(40).pdf" style="text-decoration:none;">The Language and Grammar of Mathematics</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(20).pdf" style="text-decoration:none;">A Few Useful Things to Know About Machine Learning</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(21).pdf" style="text-decoration:none;">A Cohomological Viewpoint on Elementary School Arithmetic </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(41).pdf" style="text-decoration:none;">Example-Based Photometric Stereo: Shape Reconstruction with General, Varying BRDFs</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(42).pdf" style="text-decoration:none;">A Hub-Based Labeling Algorithm for Shortest Paths on Road Networks </a></b></li>  
                                              
 
 
