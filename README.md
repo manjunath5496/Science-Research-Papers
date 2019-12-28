@@ -9,7 +9,6 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(5).pdf" style="text-decoration:none;">Winner-Take-All Autoencoders</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(6).pdf" style="text-decoration:none;">A Roadmap towards Machine Intelligence</a></b></li>  
                                              
-
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cytology-Books/blob/master/cyto(7).pdf" style="text-decoration:none;">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a></b></li>
  
  
